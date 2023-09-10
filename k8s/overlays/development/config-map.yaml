@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://animatedtimes.com/wp-content/uploads/2021/04/20-Funniest-Batman-Memes-That-Will-Split-Your-Sides-1024x576.jpg"
     ]
 kind: ConfigMap
 metadata:
