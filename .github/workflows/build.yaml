@@ -37,5 +37,5 @@ jobs:
         file: ./application/Containerfile
         push: true
         tags: |
-          quay.io/rhdevelopers/random-meme:latest
-          quay.io/rhdevelopers/random-meme:sha-${{ steps.git-sha.outputs.sha }}
+          quay.io/thason/app-dev-lab:latest
+          quay.io/thason/app-dev-lab:sha-${{ steps.git-sha.outputs.sha }}
